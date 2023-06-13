@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="10" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-12T17:02:12 IST" name="Suite" finished-at="2023-06-12T17:07:14 IST" duration-ms="301959">
+    <groups>
+    </groups>
+    <test started-at="2023-06-12T17:02:12 IST" name="Test" finished-at="2023-06-12T17:07:14 IST" duration-ms="301959">
+      <class name="com.fastraxCP.testCases.loginPage">
+        <test-method is-config="true" signature="browsersetup()[pri:0, instance:com.fastraxCP.testCases.loginPage@25ce9dc4]" started-at="2023-06-12T17:02:36 IST" name="browsersetup" finished-at="2023-06-12T17:02:43 IST" duration-ms="6723" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browsersetup -->
+        <test-method signature="loginwithValidCredential()[pri:1, instance:com.fastraxCP.testCases.loginPage@25ce9dc4]" started-at="2023-06-12T17:02:43 IST" name="loginwithValidCredential" finished-at="2023-06-12T17:02:48 IST" duration-ms="5201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithValidCredential -->
+        <test-method is-config="true" signature="quitt()[pri:0, instance:com.fastraxCP.testCases.loginPage@25ce9dc4]" started-at="2023-06-12T17:02:48 IST" name="quitt" finished-at="2023-06-12T17:02:51 IST" duration-ms="3127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitt -->
+        <test-method is-config="true" signature="browsersetup()[pri:0, instance:com.fastraxCP.testCases.loginPage@25ce9dc4]" started-at="2023-06-12T17:02:51 IST" name="browsersetup" finished-at="2023-06-12T17:02:58 IST" duration-ms="6640" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browsersetup -->
+        <test-method signature="loginwithInValidEmail()[pri:2, instance:com.fastraxCP.testCases.loginPage@25ce9dc4]" started-at="2023-06-12T17:02:58 IST" name="loginwithInValidEmail" finished-at="2023-06-12T17:03:03 IST" duration-ms="5207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithInValidEmail -->
+        <test-method is-config="true" signature="quitt()[pri:0, instance:com.fastraxCP.testCases.loginPage@25ce9dc4]" started-at="2023-06-12T17:03:03 IST" name="quitt" finished-at="2023-06-12T17:03:06 IST" duration-ms="3134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitt -->
+        <test-method is-config="true" signature="browsersetup()[pri:0, instance:com.fastraxCP.testCases.loginPage@25ce9dc4]" started-at="2023-06-12T17:03:06 IST" name="browsersetup" finished-at="2023-06-12T17:03:13 IST" duration-ms="6598" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browsersetup -->
+        <test-method signature="loginwithInvalidPassword()[pri:3, instance:com.fastraxCP.testCases.loginPage@25ce9dc4]" started-at="2023-06-12T17:03:13 IST" name="loginwithInvalidPassword" finished-at="2023-06-12T17:03:18 IST" duration-ms="5188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithInvalidPassword -->
+        <test-method is-config="true" signature="quitt()[pri:0, instance:com.fastraxCP.testCases.loginPage@25ce9dc4]" started-at="2023-06-12T17:03:18 IST" name="quitt" finished-at="2023-06-12T17:03:21 IST" duration-ms="3129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitt -->
+        <test-method is-config="true" signature="browsersetup()[pri:0, instance:com.fastraxCP.testCases.loginPage@25ce9dc4]" started-at="2023-06-12T17:03:21 IST" name="browsersetup" finished-at="2023-06-12T17:03:27 IST" duration-ms="6671" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browsersetup -->
+        <test-method signature="loginwithbothInvalidEmailPass()[pri:4, instance:com.fastraxCP.testCases.loginPage@25ce9dc4]" started-at="2023-06-12T17:03:27 IST" name="loginwithbothInvalidEmailPass" finished-at="2023-06-12T17:03:31 IST" duration-ms="3176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithbothInvalidEmailPass -->
+        <test-method is-config="true" signature="quitt()[pri:0, instance:com.fastraxCP.testCases.loginPage@25ce9dc4]" started-at="2023-06-12T17:03:31 IST" name="quitt" finished-at="2023-06-12T17:03:34 IST" duration-ms="3170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitt -->
+        <test-method is-config="true" signature="browsersetup()[pri:0, instance:com.fastraxCP.testCases.loginPage@25ce9dc4]" started-at="2023-06-12T17:03:34 IST" name="browsersetup" finished-at="2023-06-12T17:03:41 IST" duration-ms="6780" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browsersetup -->
+        <test-method signature="loginwithemptyemail()[pri:5, instance:com.fastraxCP.testCases.loginPage@25ce9dc4]" started-at="2023-06-12T17:03:41 IST" name="loginwithemptyemail" finished-at="2023-06-12T17:03:44 IST" duration-ms="3280" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithemptyemail -->
+        <test-method is-config="true" signature="quitt()[pri:0, instance:com.fastraxCP.testCases.loginPage@25ce9dc4]" started-at="2023-06-12T17:03:44 IST" name="quitt" finished-at="2023-06-12T17:03:47 IST" duration-ms="3126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitt -->
+        <test-method is-config="true" signature="browsersetup()[pri:0, instance:com.fastraxCP.testCases.loginPage@25ce9dc4]" started-at="2023-06-12T17:03:47 IST" name="browsersetup" finished-at="2023-06-12T17:03:54 IST" duration-ms="6932" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browsersetup -->
+        <test-method signature="loginwithemptypassword()[pri:6, instance:com.fastraxCP.testCases.loginPage@25ce9dc4]" started-at="2023-06-12T17:03:54 IST" name="loginwithemptypassword" finished-at="2023-06-12T17:03:57 IST" duration-ms="3194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithemptypassword -->
+        <test-method is-config="true" signature="quitt()[pri:0, instance:com.fastraxCP.testCases.loginPage@25ce9dc4]" started-at="2023-06-12T17:03:57 IST" name="quitt" finished-at="2023-06-12T17:04:00 IST" duration-ms="3167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitt -->
+        <test-method is-config="true" signature="browsersetup()[pri:0, instance:com.fastraxCP.testCases.loginPage@25ce9dc4]" started-at="2023-06-12T17:04:00 IST" name="browsersetup" finished-at="2023-06-12T17:04:07 IST" duration-ms="6708" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browsersetup -->
+        <test-method signature="loginwithlessdigitPassword()[pri:7, instance:com.fastraxCP.testCases.loginPage@25ce9dc4]" started-at="2023-06-12T17:04:07 IST" name="loginwithlessdigitPassword" finished-at="2023-06-12T17:04:16 IST" duration-ms="9225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithlessdigitPassword -->
+        <test-method is-config="true" signature="quitt()[pri:0, instance:com.fastraxCP.testCases.loginPage@25ce9dc4]" started-at="2023-06-12T17:04:16 IST" name="quitt" finished-at="2023-06-12T17:04:19 IST" duration-ms="3158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitt -->
+        <test-method is-config="true" signature="browsersetup()[pri:0, instance:com.fastraxCP.testCases.loginPage@25ce9dc4]" started-at="2023-06-12T17:04:19 IST" name="browsersetup" finished-at="2023-06-12T17:04:26 IST" duration-ms="6772" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browsersetup -->
+        <test-method signature="ValidEmailandPassword()[pri:8, instance:com.fastraxCP.testCases.loginPage@25ce9dc4]" started-at="2023-06-12T17:04:26 IST" name="ValidEmailandPassword" finished-at="2023-06-12T17:04:29 IST" duration-ms="3161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidEmailandPassword -->
+        <test-method is-config="true" signature="quitt()[pri:0, instance:com.fastraxCP.testCases.loginPage@25ce9dc4]" started-at="2023-06-12T17:04:29 IST" name="quitt" finished-at="2023-06-12T17:04:32 IST" duration-ms="3140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitt -->
+      </class> <!-- com.fastraxCP.testCases.loginPage -->
+      <class name="com.fastraxCP.testCases.RegisterPage">
+        <test-method is-config="true" signature="browsersetup()[pri:0, instance:com.fastraxCP.testCases.RegisterPage@4686afc2]" started-at="2023-06-12T17:02:12 IST" name="browsersetup" finished-at="2023-06-12T17:02:21 IST" duration-ms="8784" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browsersetup -->
+        <test-method signature="registerPage()[pri:0, instance:com.fastraxCP.testCases.RegisterPage@4686afc2]" started-at="2023-06-12T17:02:21 IST" name="registerPage" finished-at="2023-06-12T17:02:33 IST" duration-ms="11905" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerPage -->
+        <test-method is-config="true" signature="quitt()[pri:0, instance:com.fastraxCP.testCases.RegisterPage@4686afc2]" started-at="2023-06-12T17:02:33 IST" name="quitt" finished-at="2023-06-12T17:02:36 IST" duration-ms="3119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitt -->
+      </class> <!-- com.fastraxCP.testCases.RegisterPage -->
+      <class name="com.fastraxCP.testCases.startNewPermit">
+        <test-method is-config="true" signature="browsersetup()[pri:0, instance:com.fastraxCP.testCases.startNewPermit@74ea2410]" started-at="2023-06-12T17:04:32 IST" name="browsersetup" finished-at="2023-06-12T17:04:39 IST" duration-ms="6794" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browsersetup -->
+        <test-method signature="startnewPermit()[pri:1, instance:com.fastraxCP.testCases.startNewPermit@74ea2410]" started-at="2023-06-12T17:04:39 IST" name="startnewPermit" finished-at="2023-06-12T17:06:15 IST" duration-ms="95403" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//table/tbody/tr/td[contains(text(),' 2023-00922')]//following-sibling::td[contains(text(),'View')]"}
+  (Session info: chrome=114.0.5735.110)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.0', revision: '267030adea'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [74d37b5cf6dc72487f46b9837220dc63, findElement {using=xpath, value=//table/tbody/tr/td[contains(text(),' 2023-00922')]//following-sibling::td[contains(text(),'View')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.110, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\ZIBTEK\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:51923}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51923/devtoo..., se:cdpVersion: 114.0.5735.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 74d37b5cf6dc72487f46b9837220dc63]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//table/tbody/tr/td[contains(text(),' 2023-00922')]//following-sibling::td[contains(text(),'View')]"}
+  (Session info: chrome=114.0.5735.110)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.0', revision: '267030adea'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [74d37b5cf6dc72487f46b9837220dc63, findElement {using=xpath, value=//table/tbody/tr/td[contains(text(),' 2023-00922')]//following-sibling::td[contains(text(),'View')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.110, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\ZIBTEK\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:51923}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51923/devtoo..., se:cdpVersion: 114.0.5735.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 74d37b5cf6dc72487f46b9837220dc63
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+at com.fastraxCP.testCases.startNewPermit.startnewPermit(startNewPermit.java:241)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startnewPermit -->
+        <test-method is-config="true" signature="quitt()[pri:0, instance:com.fastraxCP.testCases.startNewPermit@74ea2410]" started-at="2023-06-12T17:06:15 IST" name="quitt" finished-at="2023-06-12T17:06:18 IST" duration-ms="3200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitt -->
+        <test-method is-config="true" signature="browsersetup()[pri:0, instance:com.fastraxCP.testCases.startNewPermit@74ea2410]" started-at="2023-06-12T17:06:18 IST" name="browsersetup" finished-at="2023-06-12T17:06:25 IST" duration-ms="6719" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browsersetup -->
+        <test-method signature="sample()[pri:2, instance:com.fastraxCP.testCases.startNewPermit@74ea2410]" started-at="2023-06-12T17:06:25 IST" name="sample" finished-at="2023-06-12T17:07:11 IST" duration-ms="46234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sample -->
+        <test-method is-config="true" signature="quitt()[pri:0, instance:com.fastraxCP.testCases.startNewPermit@74ea2410]" started-at="2023-06-12T17:07:11 IST" name="quitt" finished-at="2023-06-12T17:07:14 IST" duration-ms="3138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitt -->
+      </class> <!-- com.fastraxCP.testCases.startNewPermit -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
